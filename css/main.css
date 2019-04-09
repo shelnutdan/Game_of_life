@@ -1,0 +1,17 @@
+.box {
+    float:left;
+    width:15px;
+    height:15px;
+    margin-right:5px;
+    margin-bottom:5px;
+    background-color:#000 ;
+}
+
+.box:hover{
+  cursor: pointer;
+}
+
+
+.box.active{
+  background-color: #0000FF
+}
