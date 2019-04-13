@@ -21,6 +21,6 @@ Each of the square boxed has one of two possible states, alive or dead, (or popu
 ## More information on the Game of life
 Check this [interview](https://www.youtube.com/watch?v=E8kUJL04ELA&t=215s) with John Conway himself by NumberPhile
 
-#Future Developments
+## Future Developments
 
 Allow for slower iteration throughout he generations so that users get a better idea on how their configurations can change over time.
