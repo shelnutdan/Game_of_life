@@ -1,3 +1,15 @@
+h1{
+  text-align:left;
+  margin-left: 250px;
+}
+
+#game_board{
+  width:100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 .box {
     float:left;
     width:15px;
@@ -13,5 +25,12 @@
 
 
 .box.active{
-  background-color: #0000FF
+  background-color: #000FFF
+}
+#game_controls{
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:flex-start;
 }
